@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`html 1`] = `"<div></div>"`;
+
+exports[`html 2`] = `"<div>test</div>"`;
+
+exports[`html 3`] = `
+"
+      <ul><li></li><li></li><li></li><li></li><li></li></ul>
+    "
+`;
+
+exports[`html 4`] = `"<div>text</div>"`;
+
+exports[`html 5`] = `
+"
+      <div style=\\"width:100px;height:50px\\" class=\\"a b\\"></div>
+    "
+`;

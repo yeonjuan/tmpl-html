@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`classes - record 1`] = `"\\"foo\\""`;
+
+exports[`classes - record 2`] = `"\\"\\""`;
+
+exports[`classes - record 3`] = `"\\"foo bar\\""`;
+
+exports[`classes - string 1`] = `"\\"foo bar\\""`;
+
+exports[`classes - string 2`] = `"\\"foo\\""`;
+
+exports[`classes - string 3`] = `"\\"foo bar\\""`;

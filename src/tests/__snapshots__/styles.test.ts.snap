@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`styles 1`] = `"\\"width:100px\\""`;
+
+exports[`styles 2`] = `"\\"width:100px;height:50px\\""`;
+
+exports[`styles 3`] = `"\\"height:50px\\""`;
+
+exports[`styles 4`] = `"\\"width:100px\\""`;
